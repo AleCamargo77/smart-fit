@@ -1,0 +1,83 @@
+@media (max-width:760px) {
+    .menubar-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .menubar-item {
+        padding: 3px;
+    }
+
+    .banner-content img {
+        display: none;
+    }
+
+    #image-mobile {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .smartphone-scan img {
+        display: none;
+    }
+
+    .escaneie h5 {
+        display: none;
+    }
+
+    .smartphone-store {
+        margin-top: 30px;
+        display: inline;
+        cursor: pointer;
+    }
+
+    .planos-container {
+        height: 2000px;
+    }
+
+    .cards-container {
+        margin-top: 100px;
+    }
+
+    .go-content {
+        margin-top: 110px;
+    }
+
+    .covid-content {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+    .covid-content h1 {
+        line-height: normal;
+        font-size: 38px;
+        margin-top: 50px;
+    }
+
+    .covid-content p {
+        margin-top: 30px; 
+    }
+
+    .covid-container {
+        margin-top: 60px;
+    }
+
+    .structure-container {
+        height: 2800px;
+    }
+
+    .title-news h2 {
+        font-size: 16px;
+    }
+
+    .form-news input {
+        font-size: 16px;
+        padding: 0px 10px;
+        height: 64px;
+        width: 300px;
+    }
+    
+    .form-news button {
+        font-size: 12px;
+    }
+}
